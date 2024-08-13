@@ -22,7 +22,7 @@
         <div class="nav-links">
         <%  %>
             <a href="login.jsp">Login</a>
-            <a href="signin.jsp">Sign in</a>          
+            <a href="signup.jsp">Sign up</a>          
             <a href="contact.html">Contact</a>
         </div>
     </div>
@@ -33,7 +33,7 @@
     </footer>
 
   <form action="SignUpServlet" class="form">
-	<h1>Sign In</h1>
+	<h1>Sign Up</h1>
 	<input type="name"  name="name" class="box" placeholder="Name" required="">
 	<input type="email" name="email" class="box" placeholder="email" required="">
 	<input type="password" name="password" class="box" placeholder=" enter password" required="">

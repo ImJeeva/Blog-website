@@ -11,7 +11,7 @@
 <body>
     <div class="navbar">
      <div class="logo">Blogging Website</div>
-        <form action="signin.jsp">
+        <form action="signup.jsp">
         <div class="search">
              <input type="text" placeholder="Search...">
              <button><img alt="img" src="Images/search.png" width="20px" height="20px"></button>
@@ -21,7 +21,7 @@
         </div>
         <div class="nav-links">
             <a href="login.jsp">Login</a>
-            <a href="signin.jsp">Sign in</a>
+            <a href="signup.jsp">Sign up</a>
             <a href="contact.html">Contact</a>
         </div>
     </div>

@@ -35,8 +35,8 @@
 
 <form action=" LoginServlet " class="form">
 <h1>LOGIN</h1>
-<input type="email"  name="email" class="box" placeholder="enter email" required="">
-<input type="password" name="password" class="box" placeholder=" enter password" required="">
+<input type="email"  name="email" class="box" placeholder="enter email" required>
+<input type="password" name="password" class="box" placeholder=" enter password" required>
 <input type="submit" value="LOGIN" id="submit">
 <p>You don't have a account?<a href="signup.jsp">  Sign Up </a> </p>
 </form>

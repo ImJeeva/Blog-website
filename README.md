@@ -68,13 +68,35 @@ Blog App is a web application designed for users to create, view, and manage blo
   - users if froget them password they also change them password.
 
 
-SAMPLE IMAGES : 
+## SAMPLE IMAGES : 
 
 ![Screenshot 2024-08-12 155851](https://github.com/user-attachments/assets/23c2fd0a-4861-4a4f-9428-1d6bf51b98df)
 
 ![Screenshot 2024-09-20 193047](https://github.com/user-attachments/assets/d41e54e1-0387-401f-a9f0-92edf35947ec)
 
-![Uploading Screenshot 2024-09-08 172121.png…]()
+![Screenshot 2024-09-08 172121](https://github.com/user-attachments/assets/fe98b769-5577-4534-a65e-1135f4d6af02)
+
+![Screenshot 2024-08-12 162000](https://github.com/user-attachments/assets/6fcb5a46-623c-4d17-b3e3-23fe1802a9f3)
+
+![Screenshot 2024-08-12 210211](https://github.com/user-attachments/assets/98c767f0-80c3-48f7-886f-5a33d3833728)
+
+![Screenshot 2024-08-12 162021](https://github.com/user-attachments/assets/dd7266da-3a36-4697-b75c-76ae15656184)
+
+![Screenshot 2024-08-12 210525](https://github.com/user-attachments/assets/6a8d3bf0-75e5-4c42-8859-5ba3accde910)
+
+![Screenshot 2024-08-12 160501](https://github.com/user-attachments/assets/d4c39c87-6914-4868-bab5-bbbf0727d3e9)
+
+![Screenshot 2024-08-12 160516](https://github.com/user-attachments/assets/b90221a1-dde2-4b78-9af0-242afa4c5544)
+
+
+
+
+
+
+
+
+
+
 
 
 

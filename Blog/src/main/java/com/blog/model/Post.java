@@ -10,9 +10,9 @@ public class Post {
 	private Date updatedAt;
 	private String imagePath;
 	private String videoPath;
-	
+
 	public Post() {
-		
+
 	}
 
 	public Post(int postId, int userId, String title, String content, Date updatedAt, String imagePath,
@@ -82,10 +82,10 @@ public class Post {
 	public void setVideoPath(String videoPath) {
 		this.videoPath = videoPath;
 	}
-	
+
 	public String toString() {
-		return postId+" "+userId+" "+title+" "+content+" "+updatedAt+" "+imagePath+" "+videoPath;
+		return postId + " " + userId + " " + title + " " + content + " " + updatedAt + " " + imagePath + " "
+				+ videoPath;
 	}
-	
 
 }

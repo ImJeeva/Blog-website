@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Welcome to Blogging Website</title>
-<link rel="icon" href="Images/travel.jpg" bor;>
+<link rel="icon" href="Images/travel.jpg">
 <link rel="stylesheet" href=CSS/ind.css>
 </head>
 <body>

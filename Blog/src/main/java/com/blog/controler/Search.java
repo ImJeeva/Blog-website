@@ -13,36 +13,29 @@ import com.blog.DAO.PostDAO;
 import com.blog.DAOImplement.PostDAOImpl;
 import com.blog.model.Post;
 
-
 @WebServlet("/search")
 public class Search extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private PostDAO postDAO;
-	
+
 	@Override
 	public void init() throws ServletException {
-		postDAO=new PostDAOImpl();
-		
+		postDAO = new PostDAOImpl();
 
 	}
-		
-	
-       
 
-	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String search=request.getParameter("search");
-		
-		if(search!=null && !search.isEmpty()) {
-			List<Post> searchResult=postDAO.search(search);
-			
-			request.setAttribute("searchResult",searchResult);
+	protected void service(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		String search = request.getParameter("search");
+
+		if (search != null && !search.isEmpty()) {
+			List<Post> searchResult = postDAO.search(search);
+
+			request.setAttribute("searchResult", searchResult);
 			request.getRequestDispatcher("Search.jsp").forward(request, response);
-			
+
 		}
-		
-		
-		
-		
+
 	}
 
 }

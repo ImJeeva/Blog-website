@@ -13,7 +13,6 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
 import javax.servlet.http.Part;
 
 @WebServlet("/createpostservlet")
@@ -74,9 +73,3 @@ public class CreatePostServlet extends HttpServlet  {
 
 }
 
-
-
-
-
-
-//asc,asc,ruby resume.pdf,Resume Jeeva.pdf

@@ -40,10 +40,7 @@ public class ListPost extends HttpServlet {
                 post.setTitle(resultSet.getString("title"));
                 post.setContent(resultSet.getString("content"));
                 post.setImagePath(resultSet.getString("imagePath"));
-                post.setVideoPath(resultSet.getString("videoPath"));
-				/*
-				 * post.setCreatedAt(resultSet.getTimestamp("created_at"));
-				 */              
+                post.setVideoPath(resultSet.getString("videoPath"));              
                 posts.add(post);
             }
             conn.close();

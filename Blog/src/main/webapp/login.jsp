@@ -21,7 +21,7 @@
         </div>
         <div class="nav-links">
         <%  %>
-            <a href="login.jsp">Login</a>
+            <!-- <a href="login.jsp">Login</a> -->
             <a href="signup.jsp">Sign Up</a>          
             <a href="contact.html">Contact</a>
         </div>

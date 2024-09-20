@@ -33,8 +33,9 @@
 	<form action=" LoginServlet " class="form">
 
 		<h1>Dashboard</h1>
-		<a href="ListPost" class="box"> view post</a> <a href="uploadpost.jsp"
-			class="box"> upload post</a>
+		<a href="ListPost" class="box"> view post</a> 
+		<a href="uploadpost.jsp" class="box"> upload post</a>
+			
 	</form>
 
 
